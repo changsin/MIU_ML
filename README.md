@@ -69,6 +69,7 @@ The initial classes are:
 26 | bicycle |
 27 | bench |
 28 | barricade |
+29 | van |
 
 # Related Work
 
