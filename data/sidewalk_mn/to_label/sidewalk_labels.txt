@@ -27,3 +27,4 @@ bollard
 bicycle
 bench
 barricade
+van

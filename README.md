@@ -31,6 +31,13 @@ After 300 labeled images are gathered, we will split the data into:
 - validation: 50 images
 - test: 50 images
 
+## To annotate
+After the images are collected, you need to label them.
+You can use [makesense](https://www.makesense.ai/).
+Upload [sidewalk_labels.txt](./data/sidewalk_mn/to_label/sidewalk_labels.txt) as labels file.
+After having with annotation, export the labels in YOLO format
+and check them into the data folder.
+
 ## Classes
 
 The initial dataset classes are borrowed from the Korean sidewalk dataset.
@@ -69,7 +76,6 @@ The initial classes are:
 26 | bicycle |
 27 | bench |
 28 | barricade |
-29 | van |
 
 # Related Work
 
