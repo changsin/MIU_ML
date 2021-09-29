@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+    <version>1.1</version>
+    <meta>
+        <task>
+            <id>3630</id>
+            <name>P1107_06</name>
+            <size>100</size>
+            <mode>annotation</mode>
+            <overlap>0</overlap>
+            <bugtracker/>
+            <flipped>False</flipped>
+            <created>2019-10-23 05:35:21.815802+03:00</created>
+            <updated>2019-11-15 12:18:13.719551+03:00</updated>
+            <start_frame>0</start_frame>
+            <stop_frame>0</stop_frame>
+            <frame_filter>0</frame_filter>
+            <labels>
+                <label>
+                    <name>wheelchair</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>truck</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>tree_trunk</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>traffic_sign</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>traffic_light</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>traffic_light_controller</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>table</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>stroller</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>stop</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>scooter</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>potted_plant</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>power_controller</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>pole</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>person</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>parking_meter</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>movable_signage</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>motorcycle</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>kiosk</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>fire_hydrant</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>dog</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>chair</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>cat</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>carrier</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>car</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>bus</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>bollard</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>bicycle</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>bench</name>
+                    <attributes/>
+                </label>
+                <label>
+                    <name>barricade</name>
+                    <attributes/>
+                </label>
+            </labels>
+            <segments>
+                <segment>
+                    <id>3488</id>
+                    <start>0</start>
+                    <stop>99</stop>
+                    <url>http://112.169.146.227:8080/?id=3488</url>
+                </segment>
+            </segments>
+            <owner>
+                <username>aiadmin</username>
+                <email>aiadmin@testworks.co.kr</email>
+            </owner>
+        </task>
+        <dumped>2019-11-20 06:20:00.018121+03:00</dumped>
+    </meta>
+    <image id="0" height="1080" width="1920" name="MP_SEL_287045_P027851.jpg">
+        <box occluded="1" ybr="668.57" xbr="925.3" ytl="579.03" xtl="825.74" label="car"/>
+        <box occluded="0" ybr="747.2" xbr="577.57" ytl="672.35" xtl="534.83" label="bollard"/>
+        <box occluded="0" ybr="634.99" xbr="781.94" ytl="583.74" xtl="765.66" label="person"/>
+        <box occluded="1" ybr="1080" xbr="338.64" ytl="602.82" xtl="0" label="car"/>
+        <box occluded="1" ybr="966.7" xbr="1920" ytl="588.72" xtl="1579.15" label="car"/>
+    </image>
+    <image id="1" height="1080" width="1920" name="MP_SEL_287047_P027852.jpg">
+        <box occluded="0" ybr="201.72" xbr="514.85" ytl="106.8" xtl="478.02" label="traffic_light"/>
+        <box occluded="0" ybr="423.62" xbr="310.87" ytl="263.81" xtl="237.43" label="tree_trunk"/>
+        <box occluded="1" ybr="216.76" xbr="1760.57" ytl="179.64" xtl="1733.4" label="traffic_sign"/>
+        <box occluded="0" ybr="407.63" xbr="1769.05" ytl="280.2" xtl="1716.26" label="traffic_light_controller"/>
+        <box occluded="1" ybr="411.17" xbr="1741.56" ytl="0" xtl="1685.74" label="pole"/>
+        <box occluded="1" ybr="424.02" xbr="1411.12" ytl="0" xtl="1383.76" label="pole"/>
+        <box occluded="1" ybr="435.14" xbr="504.41" ytl="0" xtl="434.14" label="pole"/>
+        <box occluded="0" ybr="324.92" xbr="1694.14" ytl="278.48" xtl="1678.01" label="person"/>
+        <box occluded="0" ybr="395.09" xbr="1118.86" ytl="323.55" xtl="1012.01" label="bicycle"/>
+    </image>
+    <image id="2" height="1080" width="1920" name="MP_SEL_287064_P027853.jpg">
+        <box occluded="1" ybr="557.58" xbr="1136.57" ytl="0" xtl="1094.46" label="pole"/>
+        <box occluded="1" ybr="1024.35" xbr="1920" ytl="441.98" xtl="1407.77" label="car"/>
+    </image>
+    <image id="3" height="1080" width="1920" name="MP_SEL_287067_P027854.jpg">
+        <box occluded="1" ybr="734.1" xbr="1233.16" ytl="504.3" xtl="1202.7" label="tree_trunk"/>
+        <box occluded="1" ybr="627" xbr="1276.7" ytl="593.5" xtl="1199.71" label="bus"/>
+        <box occluded="1" ybr="932.8" xbr="1568.47" ytl="189.69" xtl="1495.6" label="tree_trunk"/>
+        <box occluded="0" ybr="520.26" xbr="1174.39" ytl="437.63" xtl="1125.77" label="traffic_sign"/>
+        <box occluded="1" ybr="654.96" xbr="1657.46" ytl="541.17" xtl="1432.14" label="bus"/>
+        <box occluded="0" ybr="649.57" xbr="1851.21" ytl="601.5" xtl="1751.4" label="car"/>
+    </image>
+    <image id="4" height="1080" width="1920" name="MP_SEL_287071_P027855.jpg">
+        <box occluded="0" ybr="619.38" xbr="1589.08" ytl="591.49" xtl="1579.22" label="bollard"/>
+        <box occluded="1" ybr="862.6" xbr="1395.46" ytl="0" xtl="1241.7" label="tree_trunk"/>
+        <box occluded="0" ybr="644.23" xbr="1745.49" ytl="607.51" xtl="1727.47" label="bollard"/>
+        <box occluded="0" ybr="554.13" xbr="1394.38" ytl="522.36" xtl="1357.71" label="car"/>
+    </image>
+    <image id="5" height="1080" width="1920" name="MP_SEL_287073_P027856.jpg">
+        <box occluded="1" ybr="720" xbr="1174.7" ytl="561.78" xtl="1151.58" label="tree_trunk"/>
+        <box occluded="1" ybr="735.7" xbr="1210.1" ytl="578.81" xtl="1192.41" label="tree_trunk"/>
+        <box occluded="1" ybr="823.5" xbr="1424.9" ytl="488.8" xtl="1355.4" label="tree_trunk"/>
+    </image>
+    <image id="6" height="1080" width="1920" name="MP_SEL_287083_P027857.jpg">
+        <box occluded="1" ybr="503.12" xbr="897.49" ytl="423.9" xtl="780.4" label="car"/>
+        <box occluded="0" ybr="571.47" xbr="885.71" ytl="459.55" xtl="798.8" label="bicycle"/>
+        <box occluded="0" ybr="556.02" xbr="1000.43" ytl="456.56" xtl="949.42" label="bicycle"/>
+    </image>
+    <image id="7" height="1080" width="1920" name="MP_SEL_287089_P027858.jpg">
+        <box occluded="1" ybr="510.6" xbr="1337.54" ytl="432.1" xtl="1128.26" label="car"/>
+        <box occluded="0" ybr="707.74" xbr="759.07" ytl="347.66" xtl="209.12" label="truck"/>
+        <box occluded="1" ybr="892.96" xbr="1920" ytl="568.16" xtl="1542.33" label="motorcycle"/>
+        <box occluded="1" ybr="526.58" xbr="916.41" ytl="384.9" xtl="735.92" label="car"/>
+        <box occluded="0" ybr="537.4" xbr="774.19" ytl="475.81" xtl="758.06" label="bollard"/>
+        <box occluded="0" ybr="497.9" xbr="983.9" ytl="455.35" xtl="928.7" label="car"/>
+    </image>
+    <image id="9" height="1080" width="1920" name="MP_SEL_287103_P027860.jpg">
+        <box occluded="0" ybr="723.04" xbr="894.02" ytl="373.33" xtl="853.83" label="tree_trunk"/>
+        <box occluded="0" ybr="659.89" xbr="919.36" ytl="358.38" xtl="896.97" label="tree_trunk"/>
+        <box occluded="0" ybr="580.21" xbr="569.01" ytl="540.86" xtl="491.12" label="car"/>
+        <box occluded="0" ybr="989" xbr="702.73" ytl="84" xtl="625.24" label="tree_trunk"/>
+        <box occluded="0" ybr="621.25" xbr="950.24" ytl="468.24" xtl="931.47" label="tree_trunk"/>
+    </image>
+    <image id="10" height="1080" width="1920" name="MP_SEL_287113_P027861.jpg">
+        <box occluded="1" ybr="656.13" xbr="922.43" ytl="0" xtl="883.09" label="pole"/>
+    </image>
+    <image id="11" height="1080" width="1920" name="MP_SEL_287120_P027862.jpg">
+        <box occluded="1" ybr="714.2" xbr="984.2" ytl="646.28" xtl="903.75" label="car"/>
+        <box occluded="1" ybr="732.2" xbr="992.8" ytl="682.01" xtl="835.84" label="car"/>
+        <box occluded="0" ybr="825.09" xbr="1171.57" ytl="733.28" xtl="1112.41" label="bicycle"/>
+        <box occluded="1" ybr="1001.78" xbr="1920" ytl="731.5" xtl="1219.31" label="car"/>
+    </image>
+    <image id="12" height="1080" width="1920" name="MP_SEL_287154_P027863.jpg">
+        <box occluded="0" ybr="372.5" xbr="1303.09" ytl="333.12" xtl="1267.34" label="traffic_sign"/>
+        <box occluded="0" ybr="904.48" xbr="1887.72" ytl="417.31" xtl="1152.05" label="truck"/>
+        <box occluded="0" ybr="412.51" xbr="1302.87" ytl="371.03" xtl="1265.81" label="traffic_sign"/>
+    </image>
+    <image id="14" height="1080" width="1920" name="MP_SEL_287176_P027865.jpg">
+        <box occluded="0" ybr="654.83" xbr="1467.24" ytl="534.88" xtl="1389.32" label="bicycle"/>
+        <box occluded="0" ybr="691.55" xbr="773.1" ytl="243.24" xtl="735.5" label="tree_trunk"/>
+        <box occluded="0" ybr="655.22" xbr="1599.8" ytl="535.28" xtl="1505.36" label="bicycle"/>
+        <box occluded="1" ybr="1080" xbr="664.72" ytl="0" xtl="492.2" label="tree_trunk"/>
+        <box occluded="0" ybr="650.3" xbr="1312" ytl="527.42" xtl="1240.92" label="bicycle"/>
+        <box occluded="1" ybr="647.7" xbr="1749.6" ytl="528.56" xtl="1671" label="bicycle"/>
+        <box occluded="1" ybr="531.88" xbr="849.08" ytl="496.9" xtl="809.1" label="car"/>
+        <box occluded="0" ybr="551.4" xbr="740.5" ytl="492.24" xtl="656.06" label="car"/>
+        <box occluded="1" ybr="559.74" xbr="398.55" ytl="0" xtl="360.36" label="pole"/>
+        <box occluded="1" ybr="927.88" xbr="1265.47" ytl="0" xtl="1155.96" label="pole"/>
+    </image>
+    <image id="15" height="1080" width="1920" name="MP_SEL_287184_P027866.jpg">
+        <box occluded="0" ybr="449" xbr="1006.77" ytl="373.34" xtl="984.84" label="traffic_light"/>
+        <box occluded="1" ybr="1080" xbr="1854.96" ytl="0" xtl="1099.82" label="traffic_light_controller"/>
+    </image>
+    <image id="17" height="1080" width="1920" name="MP_SEL_287197_P027868.jpg">
+        <box occluded="0" ybr="595.71" xbr="1000.4" ytl="494.72" xtl="926.82" label="bicycle"/>
+        <box occluded="1" ybr="480.3" xbr="877.3" ytl="431.93" xtl="829.51" label="truck"/>
+        <box occluded="0" ybr="683.09" xbr="727.04" ytl="516.98" xtl="598.83" label="wheelchair"/>
+        <box occluded="0" ybr="606.5" xbr="826.08" ytl="435.93" xtl="769.04" label="person"/>
+        <box occluded="1" ybr="591.2" xbr="959.14" ytl="0" xtl="931.6" label="pole"/>
+    </image>
+    <image id="18" height="1080" width="1920" name="MP_SEL_287213_P027869.jpg">
+        <box occluded="0" ybr="529.79" xbr="1491.51" ytl="419.33" xtl="1438.04" label="movable_signage"/>
+        <box occluded="0" ybr="541.54" xbr="1199.31" ytl="398.41" xtl="1160.18" label="person"/>
+        <box occluded="1" ybr="521.9" xbr="557.84" ytl="0" xtl="508.09" label="pole"/>
+        <box occluded="0" ybr="268.81" xbr="616.79" ytl="175.65" xtl="545.05" label="traffic_light"/>
+    </image>
+    <image id="19" height="1080" width="1920" name="MP_SEL_287224_P027870.jpg">
+        <box occluded="0" ybr="573.89" xbr="964.86" ytl="373.14" xtl="717.6" label="car"/>
+    </image>
+    <image id="20" height="1080" width="1920" name="MP_SEL_287233_P027871.jpg">
+        <box occluded="1" ybr="575.09" xbr="1576.3" ytl="287.48" xtl="1170.11" label="car"/>
+        <box occluded="1" ybr="393.16" xbr="1058.49" ytl="0" xtl="1030.06" label="pole"/>
+        <box occluded="1" ybr="986.07" xbr="1920" ytl="219.67" xtl="1382.14" label="car"/>
+        <box occluded="1" ybr="403.33" xbr="973.17" ytl="290.8" xtl="677.8" label="car"/>
+    </image>
+    <image id="21" height="1080" width="1920" name="MP_SEL_287248_P027872.jpg">
+        <box occluded="1" ybr="1080" xbr="1919.73" ytl="869.9" xtl="1741.7" label="potted_plant"/>
+        <box occluded="0" ybr="672.22" xbr="860.29" ytl="197.18" xtl="34.07" label="truck"/>
+        <box occluded="1" ybr="786.89" xbr="1410.1" ytl="467.07" xtl="1247.13" label="motorcycle"/>
+        <box occluded="1" ybr="1017.82" xbr="1830.7" ytl="700.54" xtl="1668.54" label="potted_plant"/>
+    </image>
+    <image id="22" height="1080" width="1920" name="MP_SEL_287251_P027873.jpg">
+        <box occluded="1" ybr="505" xbr="1054.27" ytl="0" xtl="1032.43" label="pole"/>
+        <box occluded="1" ybr="584.4" xbr="181.45" ytl="405.82" xtl="61.7" label="person"/>
+        <box occluded="0" ybr="262.64" xbr="1030.71" ytl="140.23" xtl="984.19" label="traffic_light"/>
+        <box occluded="0" ybr="586.46" xbr="281.63" ytl="413.39" xtl="183.13" label="motorcycle"/>
+        <box occluded="0" ybr="543.58" xbr="583.23" ytl="370.51" xtl="524.2" label="person"/>
+        <box occluded="1" ybr="586.2" xbr="274.9" ytl="390.95" xtl="165.92" label="person"/>
+        <box occluded="0" ybr="588.76" xbr="158.2" ytl="439.29" xtl="70.91" label="motorcycle"/>
+        <box occluded="0" ybr="624.96" xbr="1870.89" ytl="268.62" xtl="1005.07" label="truck"/>
+        <box occluded="1" ybr="569.5" xbr="274.5" ytl="0" xtl="219.03" label="pole"/>
+        <box occluded="1" ybr="506.1" xbr="1356.8" ytl="212.74" xtl="1331.5" label="tree_trunk"/>
+    </image>
+    <image id="23" height="1080" width="1920" name="MP_SEL_287252_P027874.jpg">
+        <box occluded="1" ybr="1003.8" xbr="772.5" ytl="820.84" xtl="636.83" label="potted_plant"/>
+        <box occluded="1" ybr="1069.7" xbr="737.6" ytl="880.41" xtl="552.59" label="potted_plant"/>
+        <box occluded="1" ybr="898.66" xbr="837.56" ytl="761.56" xtl="718.09" label="potted_plant"/>
+        <box occluded="1" ybr="1080" xbr="686.09" ytl="944.29" xtl="455.54" label="potted_plant"/>
+        <box occluded="1" ybr="834.1" xbr="885.6" ytl="733.22" xtl="790.56" label="potted_plant"/>
+        <box occluded="1" ybr="746.7" xbr="962.52" ytl="0" xtl="911.9" label="pole"/>
+        <box occluded="1" ybr="793.9" xbr="896.9" ytl="296.2" xtl="867" label="pole"/>
+    </image>
+    <image id="24" height="1080" width="1920" name="MP_SEL_287255_P027875.jpg">
+        <box occluded="0" ybr="743.79" xbr="1142.5" ytl="552.83" xtl="1106.75" label="tree_trunk"/>
+        <box occluded="1" ybr="687.85" xbr="1256.48" ytl="627.83" xtl="1186.2" label="car"/>
+        <box occluded="1" ybr="1080" xbr="1509.77" ytl="234.59" xtl="1243.68" label="tree_trunk"/>
+        <box occluded="1" ybr="1080" xbr="1917.68" ytl="0" xtl="1717.38" label="pole"/>
+        <box occluded="0" ybr="813.55" xbr="1254.35" ytl="461.06" xtl="1144.26" label="tree_trunk"/>
+    </image>
+    <image id="25" height="1080" width="1920" name="MP_SEL_287262_P027876.jpg">
+        <box occluded="1" ybr="546.73" xbr="481.44" ytl="514.85" xtl="403.05" label="car"/>
+        <box occluded="1" ybr="545.08" xbr="383.3" ytl="499.74" xtl="275.1" label="car"/>
+        <box occluded="0" ybr="546.5" xbr="577.6" ytl="518.69" xtl="509.41" label="truck"/>
+        <box occluded="0" ybr="532.53" xbr="1054.97" ytl="511.11" xtl="1030.49" label="traffic_sign"/>
+        <box occluded="0" ybr="536.28" xbr="470.03" ytl="511.31" xtl="445.55" label="traffic_sign"/>
+        <box occluded="1" ybr="696.77" xbr="1001.78" ytl="0" xtl="952.54" label="pole"/>
+    </image>
+    <image id="26" height="1080" width="1920" name="MP_SEL_287264_P027877.jpg">
+        <box occluded="0" ybr="585.64" xbr="1193.22" ytl="521.04" xtl="1152.76" label="movable_signage"/>
+        <box occluded="1" ybr="566.94" xbr="945.71" ytl="475.59" xtl="841.8" label="car"/>
+        <box occluded="1" ybr="1080" xbr="1916.51" ytl="853.27" xtl="1747.58" label="bollard"/>
+        <box occluded="1" ybr="486.4" xbr="1040.5" ytl="448.12" xtl="1005.48" label="car"/>
+        <box occluded="0" ybr="806.38" xbr="759.92" ytl="490.58" xtl="223.57" label="car"/>
+        <box occluded="0" ybr="566.13" xbr="983.94" ytl="459.4" xtl="943.78" label="person"/>
+        <box occluded="1" ybr="657.48" xbr="882.96" ytl="433.11" xtl="596.6" label="car"/>
+        <box occluded="1" ybr="502.9" xbr="1030.9" ytl="458.51" xtl="973.87" label="car"/>
+        <box occluded="0" ybr="887" xbr="177.02" ytl="731.91" xtl="56.57" label="bollard"/>
+    </image>
+    <image id="27" height="1080" width="1920" name="MP_SEL_287267_P027878.jpg">
+        <box occluded="1" ybr="680.7" xbr="1338.64" ytl="474.4" xtl="1136.3" label="truck"/>
+        <box occluded="1" ybr="1080" xbr="1685.25" ytl="0" xtl="1407.73" label="tree_trunk"/>
+        <box occluded="1" ybr="851.87" xbr="1771.73" ytl="539.16" xtl="1245.81" label="car"/>
+        <box occluded="1" ybr="737.9" xbr="1196.21" ytl="262.31" xtl="1096.2" label="tree_trunk"/>
+        <box occluded="0" ybr="644.7" xbr="1087.5" ytl="398.83" xtl="1026.98" label="tree_trunk"/>
+    </image>
+    <image id="28" height="1080" width="1920" name="MP_SEL_287268_P027879.jpg">
+        <box occluded="0" ybr="421.24" xbr="1647.87" ytl="325.39" xtl="1519.04" label="fire_hydrant"/>
+        <box occluded="1" ybr="419.56" xbr="1746.84" ytl="0" xtl="1641.9" label="tree_trunk"/>
+        <box occluded="1" ybr="340.6" xbr="232.6" ytl="152.17" xtl="34.48" label="power_controller"/>
+    </image>
+    <image id="29" height="1080" width="1920" name="MP_SEL_287277_P027880.jpg">
+        <box occluded="1" ybr="413.4" xbr="431.79" ytl="294.7" xtl="185.7" label="bicycle"/>
+        <box occluded="1" ybr="750.68" xbr="221.72" ytl="0" xtl="98.91" label="pole"/>
+    </image>
+    <image id="30" height="1080" width="1920" name="MP_SEL_287284_P027881.jpg">
+        <box occluded="0" ybr="430.92" xbr="797.58" ytl="347.33" xtl="745.72" label="motorcycle"/>
+        <box occluded="0" ybr="410.84" xbr="1039.47" ytl="337.4" xtl="953.11" label="car"/>
+        <box occluded="1" ybr="872.03" xbr="1920" ytl="311.49" xtl="1427.17" label="car"/>
+        <box occluded="1" ybr="481.05" xbr="1255.5" ytl="324.37" xtl="1062.49" label="car"/>
+        <box occluded="1" ybr="561" xbr="1647.5" ytl="231.04" xtl="1154.82" label="truck"/>
+    </image>
+    <image id="31" height="1080" width="1920" name="MP_SEL_287294_P027882.jpg">
+        <box occluded="1" ybr="962.68" xbr="1920" ytl="192.19" xtl="1262.69" label="car"/>
+        <box occluded="0" ybr="358.87" xbr="1051.07" ytl="220.21" xtl="1015.82" label="person"/>
+        <box occluded="1" ybr="481.67" xbr="1635.51" ytl="86.92" xtl="1103.33" label="car"/>
+        <box occluded="1" ybr="353.58" xbr="806.65" ytl="220.8" xtl="453.4" label="truck"/>
+    </image>
+    <image id="32" height="1080" width="1920" name="MP_SEL_287307_P027883.jpg">
+        <box occluded="1" ybr="591.4" xbr="1533.7" ytl="555.36" xtl="1468.35" label="car"/>
+        <box occluded="1" ybr="721.44" xbr="1037.53" ytl="0" xtl="1005.37" label="pole"/>
+        <box occluded="1" ybr="586.7" xbr="1744.5" ytl="538.25" xtl="1634.2" label="car"/>
+        <box occluded="1" ybr="592.45" xbr="1920" ytl="541.1" xtl="1759.5" label="car"/>
+        <box occluded="1" ybr="585.1" xbr="1492.2" ytl="557.93" xtl="1434.7" label="car"/>
+        <box occluded="1" ybr="596.8" xbr="1437.3" ytl="561.39" xtl="1337.1" label="car"/>
+        <box occluded="1" ybr="791.2" xbr="1174" ytl="0" xtl="1097.48" label="pole"/>
+        <box occluded="1" ybr="712.78" xbr="1020.68" ytl="212.8" xtl="978.1" label="pole"/>
+        <box occluded="0" ybr="592.94" xbr="1670.33" ytl="556.39" xtl="1577.1" label="car"/>
+    </image>
+    <image id="33" height="1080" width="1920" name="MP_SEL_287313_P027884.jpg">
+        <box occluded="0" ybr="207.81" xbr="839.32" ytl="154.93" xtl="786.44" label="traffic_sign"/>
+        <box occluded="0" ybr="76.82" xbr="811.27" ytl="0" xtl="780.67" label="traffic_sign"/>
+        <box occluded="0" ybr="153.13" xbr="839.17" ytl="76.28" xtl="775" label="traffic_sign"/>
+        <box occluded="1" ybr="510.4" xbr="928.03" ytl="0" xtl="861.07" label="pole"/>
+        <box occluded="1" ybr="525.4" xbr="861.73" ytl="0" xtl="803.3" label="pole"/>
+    </image>
+    <image id="34" height="1080" width="1920" name="MP_SEL_287314_P027885.jpg">
+        <box occluded="1" ybr="1080" xbr="1920" ytl="505.06" xtl="1395" label="car"/>
+        <box occluded="0" ybr="640.45" xbr="717.74" ytl="615.29" xtl="686.46" label="car"/>
+        <box occluded="1" ybr="726.21" xbr="66.07" ytl="665.42" xtl="0" label="car"/>
+        <box occluded="1" ybr="951" xbr="587.23" ytl="0" xtl="473.2" label="pole"/>
+        <box occluded="1" ybr="753.3" xbr="1350.9" ytl="574.73" xtl="1151.02" label="car"/>
+    </image>
+    <image id="35" height="1080" width="1920" name="MP_SEL_287321_P027886.jpg">
+        <box occluded="0" ybr="571.7" xbr="1218.39" ytl="374.83" xtl="1111.28" label="person"/>
+        <box occluded="1" ybr="620.73" xbr="508.63" ytl="0" xtl="438.12" label="pole"/>
+        <box occluded="1" ybr="812.09" xbr="1920" ytl="336.93" xtl="1552.17" label="car"/>
+    </image>
+    <image id="36" height="1080" width="1920" name="MP_SEL_287331_P027887.jpg">
+        <box occluded="1" ybr="756.6" xbr="1135.1" ytl="674.51" xtl="1092.61" label="bollard"/>
+        <box occluded="1" ybr="1080" xbr="1920" ytl="557.42" xtl="1360.35" label="car"/>
+        <box occluded="0" ybr="706.98" xbr="814.7" ytl="556.01" xtl="774.71" label="movable_signage"/>
+        <box occluded="0" ybr="809.4" xbr="1386.14" ytl="583.19" xtl="1121.74" label="car"/>
+        <box occluded="0" ybr="862.28" xbr="641.9" ytl="526.39" xtl="506.76" label="movable_signage"/>
+    </image>
+    <image id="37" height="1080" width="1920" name="MP_SEL_287336_P027888.jpg">
+        <box occluded="1" ybr="719.9" xbr="836.1" ytl="432.61" xtl="722.39" label="carrier"/>
+        <box occluded="1" ybr="517.14" xbr="838.8" ytl="302.19" xtl="546.81" label="car"/>
+        <box occluded="0" ybr="416.04" xbr="592" ytl="316.59" xtl="429.78" label="car"/>
+        <box occluded="1" ybr="1080" xbr="343.07" ytl="0" xtl="46.28" label="pole"/>
+        <box occluded="0" ybr="480.17" xbr="918.7" ytl="253.42" xtl="876.39" label="tree_trunk"/>
+        <box occluded="0" ybr="407.94" xbr="342.53" ytl="274.1" xtl="320.5" label="tree_trunk"/>
+        <box occluded="1" ybr="554.06" xbr="247.6" ytl="331.37" xtl="0" label="car"/>
+        <box occluded="1" ybr="596.2" xbr="858.62" ytl="271.19" xtl="813.78" label="tree_trunk"/>
+    </image>
+    <image id="38" height="1080" width="1920" name="MP_SEL_287338_P027889.jpg">
+        <box occluded="0" ybr="617.47" xbr="835.55" ytl="254.65" xtl="157.41" label="truck"/>
+        <box occluded="0" ybr="630.68" xbr="1805.73" ytl="426.68" xtl="1169.29" label="car"/>
+    </image>
+    <image id="39" height="1080" width="1920" name="MP_SEL_287339_P027890.jpg">
+        <box occluded="1" ybr="959" xbr="680.8" ytl="0" xtl="400.06" label="tree_trunk"/>
+        <box occluded="1" ybr="372.8" xbr="762" ytl="316.1" xtl="709.82" label="traffic_sign"/>
+        <box occluded="1" ybr="508.9" xbr="826.3" ytl="405.99" xtl="800.42" label="tree_trunk"/>
+        <box occluded="1" ybr="538.6" xbr="810.41" ytl="305.99" xtl="766.1" label="tree_trunk"/>
+        <box occluded="0" ybr="489.78" xbr="215.63" ytl="308.8" xtl="175.08" label="tree_trunk"/>
+        <box occluded="0" ybr="614.02" xbr="790.01" ytl="193.52" xtl="681.71" label="tree_trunk"/>
+        <box occluded="0" ybr="904.16" xbr="1778.84" ytl="418.34" xtl="1199.41" label="car"/>
+        <box occluded="0" ybr="473.9" xbr="367.22" ytl="371.09" xtl="336.66" label="tree_trunk"/>
+    </image>
+    <image id="40" height="1080" width="1920" name="MP_SEL_287343_P027891.jpg">
+        <box occluded="1" ybr="839.12" xbr="865.51" ytl="622.6" xtl="258.1" label="car"/>
+        <box occluded="1" ybr="710.19" xbr="972.01" ytl="569.93" xtl="630.6" label="truck"/>
+        <box occluded="0" ybr="706.59" xbr="1019.35" ytl="611.67" xtl="945.97" label="motorcycle"/>
+        <box occluded="1" ybr="969.85" xbr="806.27" ytl="644" xtl="0" label="car"/>
+    </image>
+    <image id="41" height="1080" width="1920" name="MP_SEL_287356_P027892.jpg">
+        <box occluded="0" ybr="477.1" xbr="958.11" ytl="399.71" xtl="928.6" label="person"/>
+        <box occluded="1" ybr="573.78" xbr="764.14" ytl="0" xtl="729.05" label="pole"/>
+        <box occluded="1" ybr="494.83" xbr="1039" ytl="0" xtl="1008.29" label="pole"/>
+    </image>
+    <image id="42" height="1080" width="1920" name="MP_SEL_287358_P027893.jpg">
+        <box occluded="0" ybr="533.66" xbr="1871.67" ytl="327.78" xtl="1454.27" label="car"/>
+        <box occluded="0" ybr="496.9" xbr="1067.83" ytl="353.75" xtl="875.38" label="car"/>
+        <box occluded="0" ybr="438.8" xbr="1144.7" ytl="399.21" xtl="1088.74" label="car"/>
+        <box occluded="1" ybr="491.43" xbr="1579.2" ytl="322.8" xtl="1335.13" label="car"/>
+        <box occluded="1" ybr="913" xbr="911.8" ytl="297.6" xtl="0" label="car"/>
+        <box occluded="1" ybr="1080" xbr="142.14" ytl="501.92" xtl="0" label="movable_signage"/>
+    </image>
+    <image id="43" height="1080" width="1920" name="MP_SEL_287360_P027894.jpg">
+        <box occluded="0" ybr="700.98" xbr="691.68" ytl="494.11" xtl="563.15" label="stroller"/>
+        <box occluded="1" ybr="450.97" xbr="1018.78" ytl="399.96" xtl="955.97" label="car"/>
+        <box occluded="1" ybr="484.36" xbr="898.87" ytl="0" xtl="880.51" label="pole"/>
+        <box occluded="1" ybr="952" xbr="1496.61" ytl="0" xtl="1377.3" label="pole"/>
+        <box occluded="1" ybr="949.16" xbr="1615.02" ytl="492.55" xtl="1217.01" label="bicycle"/>
+    </image>
+    <image id="44" height="1080" width="1920" name="MP_SEL_287364_P027895.jpg">
+        <box occluded="1" ybr="1080" xbr="1920" ytl="410.83" xtl="1577.51" label="truck"/>
+        <box occluded="0" ybr="718.89" xbr="978.76" ytl="574.04" xtl="808.21" label="car"/>
+        <box occluded="1" ybr="623.15" xbr="1089.54" ytl="588.3" xtl="1011.34" label="car"/>
+    </image>
+    <image id="45" height="1080" width="1920" name="MP_SEL_287366_P027896.jpg">
+        <box occluded="1" ybr="740.8" xbr="259.46" ytl="634.38" xtl="91" label="potted_plant"/>
+        <box occluded="1" ybr="705.06" xbr="502.51" ytl="0" xtl="442.61" label="pole"/>
+        <box occluded="0" ybr="726.38" xbr="395.9" ytl="635.01" xtl="248.68" label="potted_plant"/>
+        <box occluded="0" ybr="652.3" xbr="875.9" ytl="511.59" xtl="774.1" label="potted_plant"/>
+    </image>
+    <image id="46" height="1080" width="1920" name="MP_SEL_287369_P027897.jpg">
+        <box occluded="0" ybr="698.25" xbr="1382.76" ytl="612.97" xtl="1253.82" label="car"/>
+        <box occluded="1" ybr="961.57" xbr="1478.94" ytl="774.72" xtl="1320.3" label="potted_plant"/>
+        <box occluded="1" ybr="1067.95" xbr="1650.13" ytl="809.17" xtl="1452.75" label="potted_plant"/>
+        <box occluded="1" ybr="1080" xbr="1779.61" ytl="0" xtl="1661.71" label="pole"/>
+        <box occluded="1" ybr="830.35" xbr="1264.2" ytl="0" xtl="1158.7" label="pole"/>
+    </image>
+    <image id="47" height="1080" width="1920" name="MP_SEL_287371_P027898.jpg">
+        <box occluded="1" ybr="435.93" xbr="1851.31" ytl="271.02" xtl="1762.9" label="carrier"/>
+        <box occluded="0" ybr="417.93" xbr="1796.69" ytl="288.59" xtl="1651.44" label="bicycle"/>
+        <box occluded="1" ybr="241.63" xbr="1032.81" ytl="183.86" xtl="950.55" label="car"/>
+        <box occluded="1" ybr="360.7" xbr="581.9" ytl="0" xtl="526.1" label="pole"/>
+    </image>
+    <image id="48" height="1080" width="1920" name="MP_SEL_287384_P027899.jpg">
+        <box occluded="0" ybr="146.89" xbr="1287.92" ytl="56.41" xtl="1254.43" label="person"/>
+        <box occluded="0" ybr="158.19" xbr="431.36" ytl="72.51" xtl="137.09" label="car"/>
+        <box occluded="1" ybr="239.86" xbr="185.07" ytl="91.01" xtl="0" label="car"/>
+        <box occluded="1" ybr="225.61" xbr="1920" ytl="67.56" xtl="1657.43" label="car"/>
+        <box occluded="1" ybr="187.17" xbr="1857.5" ytl="87.55" xtl="1520.54" label="car"/>
+    </image>
+    <image id="49" height="1080" width="1920" name="MP_SEL_287387_P027900.jpg">
+        <box occluded="0" ybr="691.6" xbr="1098.23" ytl="527.08" xtl="1064.45" label="tree_trunk"/>
+        <box occluded="0" ybr="1080" xbr="1598.42" ytl="287.26" xtl="1192.3" label="kiosk"/>
+        <box occluded="1" ybr="769.02" xbr="1920" ytl="568.6" xtl="1486.8" label="car"/>
+        <box occluded="0" ybr="779.62" xbr="1180.98" ytl="353.05" xtl="1119.29" label="tree_trunk"/>
+        <box occluded="0" ybr="727.34" xbr="1123.7" ytl="475.67" xtl="1088.93" label="tree_trunk"/>
+    </image>
+    <image id="50" height="1080" width="1920" name="MP_SEL_287399_P027901.jpg">
+        <box occluded="0" ybr="777.77" xbr="361.68" ytl="668.58" xtl="272.08" label="potted_plant"/>
+        <box occluded="1" ybr="564.33" xbr="834.84" ytl="504.54" xtl="764.57" label="truck"/>
+        <box occluded="0" ybr="647.89" xbr="1076.4" ytl="327.2" xtl="1036.44" label="pole"/>
+        <box occluded="1" ybr="610.05" xbr="1045.7" ytl="0" xtl="974.51" label="pole"/>
+        <box occluded="1" ybr="700.7" xbr="497.5" ytl="491.59" xtl="373.7" label="potted_plant"/>
+        <box occluded="1" ybr="714.49" xbr="439.97" ytl="590" xtl="377.5" label="potted_plant"/>
+        <box occluded="1" ybr="750.5" xbr="425.9" ytl="584.2" xtl="290.24" label="potted_plant"/>
+        <box occluded="0" ybr="679.38" xbr="723.92" ytl="506.05" xtl="492.42" label="car"/>
+    </image>
+    <image id="51" height="1080" width="1920" name="MP_SEL_287406_P027902.jpg">
+        <box occluded="1" ybr="454.11" xbr="792.12" ytl="317.8" xtl="772.66" label="bollard"/>
+        <box occluded="1" ybr="462.81" xbr="1058.73" ytl="0" xtl="985.63" label="pole"/>
+        <box occluded="0" ybr="482.03" xbr="752.36" ytl="271.36" xtl="642.37" label="potted_plant"/>
+        <box occluded="0" ybr="496.42" xbr="1300.62" ytl="305.2" xtl="1206.7" label="potted_plant"/>
+        <box occluded="1" ybr="258.84" xbr="993.6" ytl="207.13" xtl="861.37" label="car"/>
+    </image>
+    <image id="52" height="1080" width="1920" name="MP_SEL_287407_P027903.jpg">
+        <box occluded="1" ybr="656.69" xbr="1013.9" ytl="491.19" xtl="709.2" label="car"/>
+        <box occluded="1" ybr="589.6" xbr="1691.65" ytl="0" xtl="1656.32" label="pole"/>
+        <box occluded="0" ybr="729.34" xbr="1506.05" ytl="275" xtl="915.48" label="truck"/>
+        <box occluded="1" ybr="957.6" xbr="1920" ytl="417.93" xtl="1424.97" label="car"/>
+    </image>
+    <image id="53" height="1080" width="1920" name="MP_SEL_287415_P027904.jpg">
+        <box occluded="0" ybr="697.89" xbr="726.89" ytl="563.24" xtl="687.79" label="movable_signage"/>
+        <box occluded="0" ybr="674.5" xbr="895.9" ytl="610.37" xtl="862.3" label="movable_signage"/>
+        <box occluded="1" ybr="735.9" xbr="1329.62" ytl="600.09" xtl="1152.5" label="car"/>
+        <box occluded="0" ybr="674.32" xbr="834.05" ytl="635.5" xtl="805.43" label="chair"/>
+        <box occluded="1" ybr="808.5" xbr="1501.1" ytl="595.15" xtl="1178.87" label="car"/>
+        <box occluded="0" ybr="997.06" xbr="1920" ytl="584.85" xtl="1363.38" label="car"/>
+        <box occluded="0" ybr="911.78" xbr="661.81" ytl="553.38" xtl="0" label="car"/>
+    </image>
+    <image id="54" height="1080" width="1920" name="MP_SEL_287416_P027905.jpg">
+        <box occluded="0" ybr="370.01" xbr="162.79" ytl="262.29" xtl="125.58" label="tree_trunk"/>
+        <box occluded="1" ybr="701.97" xbr="1014.85" ytl="0" xtl="889.36" label="tree_trunk"/>
+        <box occluded="0" ybr="356.3" xbr="344.45" ytl="269.14" xtl="310.2" label="tree_trunk"/>
+        <box occluded="0" ybr="473.62" xbr="1047.49" ytl="170.44" xtl="983.45" label="tree_trunk"/>
+    </image>
+    <image id="55" height="1080" width="1920" name="MP_SEL_287423_P027906.jpg">
+        <box occluded="0" ybr="629.37" xbr="483.31" ytl="508.75" xtl="449.07" label="bollard"/>
+        <box occluded="0" ybr="723.42" xbr="157.51" ytl="557.2" xtl="106.09" label="bollard"/>
+        <box occluded="0" ybr="417.32" xbr="981.67" ytl="336.28" xtl="883.35" label="car"/>
+    </image>
+    <image id="56" height="1080" width="1920" name="MP_SEL_287438_P027907.jpg">
+        <box occluded="0" ybr="367.45" xbr="583.67" ytl="348.65" xtl="523.74" label="traffic_light"/>
+        <box occluded="1" ybr="1080" xbr="468.41" ytl="0" xtl="211.56" label="tree_trunk"/>
+        <box occluded="1" ybr="963.12" xbr="699.51" ytl="0" xtl="581.09" label="pole"/>
+        <box occluded="1" ybr="805.17" xbr="795.22" ytl="225.43" xtl="698.77" label="tree_trunk"/>
+        <box occluded="1" ybr="769.1" xbr="806.95" ytl="257.93" xtl="777.58" label="pole"/>
+        <box occluded="1" ybr="480.71" xbr="817.24" ytl="336.76" xtl="761.42" label="traffic_light"/>
+        <box occluded="1" ybr="707.09" xbr="897.8" ytl="99.6" xtl="861.42" label="pole"/>
+        <box occluded="1" ybr="694.44" xbr="1212.8" ytl="568.11" xtl="929.75" label="car"/>
+    </image>
+    <image id="57" height="1080" width="1920" name="MP_SEL_287445_P027908.jpg">
+        <box occluded="1" ybr="734.87" xbr="367.9" ytl="0" xtl="272.62" label="pole"/>
+        <box occluded="0" ybr="630.35" xbr="679" ytl="463.67" xtl="617.24" label="movable_signage"/>
+        <box occluded="0" ybr="437.08" xbr="963.48" ytl="405.34" xtl="920.7" label="car"/>
+        <box occluded="1" ybr="594.81" xbr="844.12" ytl="415.73" xtl="599.3" label="car"/>
+        <box occluded="1" ybr="525.07" xbr="889.26" ytl="369.37" xtl="721.32" label="truck"/>
+        <box occluded="1" ybr="729.6" xbr="476.6" ytl="0" xtl="413.85" label="pole"/>
+        <box occluded="1" ybr="817.11" xbr="170.04" ytl="0" xtl="105.47" label="pole"/>
+    </image>
+    <image id="58" height="1080" width="1920" name="MP_SEL_287447_P027909.jpg">
+        <box occluded="0" ybr="691.55" xbr="710.69" ytl="558.86" xtl="636.27" label="potted_plant"/>
+        <box occluded="1" ybr="937.9" xbr="650.4" ytl="534.32" xtl="346.4" label="bicycle"/>
+        <box occluded="1" ybr="1080" xbr="1920" ytl="628.32" xtl="1598.69" label="bicycle"/>
+        <box occluded="1" ybr="660.6" xbr="752.6" ytl="515.32" xtl="672.7" label="potted_plant"/>
+        <box occluded="0" ybr="640.63" xbr="1184.21" ytl="508.72" xtl="1118.92" label="bicycle"/>
+        <box occluded="1" ybr="911.51" xbr="407.4" ytl="0" xtl="309.44" label="pole"/>
+    </image>
+    <image id="59" height="1080" width="1920" name="MP_SEL_287469_P027910.jpg">
+        <box occluded="0" ybr="616.81" xbr="1678.7" ytl="458.29" xtl="1340.39" label="car"/>
+        <box occluded="0" ybr="527.67" xbr="806.42" ytl="480.75" xtl="797.92" label="bollard"/>
+        <box occluded="0" ybr="523.59" xbr="698.29" ytl="477.01" xtl="687.75" label="bollard"/>
+        <box occluded="1" ybr="503.13" xbr="872.76" ytl="373.38" xtl="668.75" label="truck"/>
+        <box occluded="1" ybr="714.13" xbr="1920" ytl="478.75" xtl="1632.58" label="car"/>
+        <box occluded="1" ybr="703.9" xbr="799.22" ytl="0" xtl="739.28" label="pole"/>
+        <box occluded="0" ybr="502.18" xbr="945.05" ytl="402.41" xtl="879.33" label="truck"/>
+    </image>
+    <image id="60" height="1080" width="1920" name="MP_SEL_287471_P027911.jpg">
+        <box occluded="0" ybr="980.22" xbr="1381.11" ytl="247.75" xtl="1250.99" label="tree_trunk"/>
+        <box occluded="1" ybr="475.2" xbr="1123" ytl="425.87" xtl="1053.61" label="bus"/>
+        <box occluded="1" ybr="486.7" xbr="1262.44" ytl="416.55" xtl="1139.18" label="bus"/>
+        <box occluded="0" ybr="540.74" xbr="390.18" ytl="375.73" xtl="353.95" label="tree_trunk"/>
+        <box occluded="0" ybr="528.99" xbr="826.44" ytl="424.7" xtl="809.3" label="tree_trunk"/>
+        <box occluded="0" ybr="555.92" xbr="869.53" ytl="424.7" xtl="836.23" label="tree_trunk"/>
+        <box occluded="0" ybr="631.08" xbr="939.4" ytl="470.48" xtl="911.49" label="tree_trunk"/>
+        <box occluded="0" ybr="507.94" xbr="493.49" ytl="404.62" xtl="473.42" label="tree_trunk"/>
+    </image>
+    <image id="61" height="1080" width="1920" name="MP_SEL_287475_P027912.jpg">
+        <box occluded="1" ybr="782.85" xbr="1252.45" ytl="0" xtl="1155.96" label="pole"/>
+    </image>
+    <image id="62" height="1080" width="1920" name="MP_SEL_287482_P027913.jpg">
+        <box occluded="1" ybr="655.65" xbr="537.52" ytl="0" xtl="445.41" label="pole"/>
+        <box occluded="0" ybr="309.96" xbr="897.69" ytl="263.44" xtl="885.18" label="person"/>
+        <box occluded="1" ybr="309.13" xbr="1032.05" ytl="261.53" xtl="936.56" label="car"/>
+        <box occluded="1" ybr="310.5" xbr="957.4" ytl="262.05" xtl="905.6" label="car"/>
+        <box occluded="0" ybr="407.8" xbr="856.51" ytl="242.11" xtl="660.5" label="car"/>
+    </image>
+    <image id="63" height="1080" width="1920" name="MP_SEL_287486_P027914.jpg">
+        <box occluded="1" ybr="449.72" xbr="869.04" ytl="350.81" xtl="771.9" label="truck"/>
+        <box occluded="0" ybr="427.46" xbr="1296.47" ytl="360.56" xtl="1215.4" label="truck"/>
+        <box occluded="0" ybr="617.63" xbr="1072.9" ytl="241.13" xtl="1027.77" label="tree_trunk"/>
+        <box occluded="0" ybr="769.69" xbr="835.77" ytl="291.61" xtl="78.44" label="car"/>
+        <box occluded="1" ybr="573.78" xbr="1047.65" ytl="220.54" xtl="861.52" label="stop"/>
+    </image>
+    <image id="64" height="1080" width="1920" name="MP_SEL_287493_P027915.jpg">
+        <box occluded="1" ybr="636.81" xbr="1246.28" ytl="556.53" xtl="1136.01" label="car"/>
+        <box occluded="1" ybr="1016.77" xbr="1920" ytl="205.35" xtl="1325.56" label="truck"/>
+    </image>
+    <image id="65" height="1080" width="1920" name="MP_SEL_287500_P027916.jpg">
+        <box occluded="1" ybr="734.89" xbr="782.27" ytl="0" xtl="708.94" label="pole"/>
+        <box occluded="0" ybr="381.59" xbr="720.9" ytl="190.1" xtl="509.62" label="traffic_sign"/>
+        <box occluded="1" ybr="655.7" xbr="635.1" ytl="540.99" xtl="410.01" label="car"/>
+        <box occluded="0" ybr="583.45" xbr="924.93" ytl="505.52" xtl="855.98" label="truck"/>
+        <box occluded="1" ybr="820.2" xbr="640.5" ytl="0" xtl="574.27" label="pole"/>
+        <box occluded="0" ybr="590.68" xbr="732.87" ytl="538.15" xtl="656.33" label="car"/>
+    </image>
+    <image id="66" height="1080" width="1920" name="MP_SEL_287507_P027917.jpg">
+        <box occluded="0" ybr="268.22" xbr="99.62" ytl="222.6" xtl="8.1" label="fire_hydrant"/>
+        <box occluded="0" ybr="374.62" xbr="615.22" ytl="161.33" xtl="219.21" label="car"/>
+        <box occluded="1" ybr="221.6" xbr="805.72" ytl="91.53" xtl="465.28" label="bus"/>
+        <box occluded="1" ybr="238.64" xbr="891.25" ytl="142.01" xtl="780.46" label="car"/>
+        <box occluded="1" ybr="276.5" xbr="745.76" ytl="109.89" xtl="560.79" label="car"/>
+        <box occluded="1" ybr="632.9" xbr="708.31" ytl="0" xtl="637.4" label="tree_trunk"/>
+        <box occluded="1" ybr="440.68" xbr="794.1" ytl="0" xtl="722.02" label="pole"/>
+        <box occluded="0" ybr="79.39" xbr="189.68" ytl="0" xtl="120.32" label="traffic_sign"/>
+        <box occluded="0" ybr="302.26" xbr="915.24" ytl="70.5" xtl="879.33" label="tree_trunk"/>
+    </image>
+    <image id="67" height="1080" width="1920" name="MP_SEL_287509_P027918.jpg">
+        <box occluded="1" ybr="700" xbr="995.29" ytl="669.22" xtl="931.39" label="car"/>
+        <box occluded="0" ybr="745.86" xbr="130.39" ytl="675.48" xtl="61.71" label="barricade"/>
+        <box occluded="1" ybr="748.84" xbr="521.7" ytl="629.29" xtl="257.46" label="car"/>
+        <box occluded="0" ybr="703.89" xbr="1079.68" ytl="92.1" xtl="1059.28" label="pole"/>
+        <box occluded="0" ybr="699.6" xbr="947" ytl="656.56" xtl="883.1" label="car"/>
+    </image>
+    <image id="68" height="1080" width="1920" name="MP_SEL_287513_P027919.jpg">
+        <box occluded="0" ybr="575.1" xbr="1375.41" ytl="282.61" xtl="996.5" label="truck"/>
+        <box occluded="1" ybr="358.7" xbr="944.38" ytl="0" xtl="926.17" label="pole"/>
+        <box occluded="1" ybr="318.3" xbr="819.2" ytl="271.03" xtl="762.14" label="car"/>
+        <box occluded="1" ybr="467.36" xbr="1071.2" ytl="350.9" xtl="915.59" label="car"/>
+    </image>
+    <image id="69" height="1080" width="1920" name="MP_SEL_287515_P027920.jpg">
+        <box occluded="1" ybr="734.4" xbr="896.6" ytl="530.51" xtl="863.31" label="tree_trunk"/>
+        <box occluded="0" ybr="717.16" xbr="488.66" ytl="596.13" xtl="225.44" label="car"/>
+        <box occluded="1" ybr="798.1" xbr="838.8" ytl="0" xtl="769" label="pole"/>
+        <box occluded="1" ybr="918" xbr="679.9" ytl="225.38" xtl="593.84" label="tree_trunk"/>
+        <box occluded="1" ybr="620.6" xbr="492.81" ytl="537.16" xtl="283.9" label="bus"/>
+    </image>
+    <image id="70" height="1080" width="1920" name="MP_SEL_287516_P027921.jpg">
+        <box occluded="0" ybr="775.54" xbr="793.38" ytl="322.31" xtl="708.58" label="tree_trunk"/>
+        <box occluded="1" ybr="446.58" xbr="1343.7" ytl="380.8" xtl="1163.99" label="car"/>
+        <box occluded="0" ybr="526.9" xbr="876.95" ytl="334.58" xtl="847.51" label="tree_trunk"/>
+        <box occluded="1" ybr="401.32" xbr="736.07" ytl="353.15" xtl="695.26" label="truck"/>
+        <box occluded="1" ybr="598.56" xbr="650.54" ytl="0" xtl="576.7" label="pole"/>
+    </image>
+    <image id="71" height="1080" width="1920" name="MP_SEL_287522_P027922.jpg">
+        <box occluded="1" ybr="596.4" xbr="1380.24" ytl="0" xtl="1326.93" label="pole"/>
+        <box occluded="1" ybr="1080" xbr="1920" ytl="666.39" xtl="1672.49" label="car"/>
+        <box occluded="1" ybr="453.6" xbr="1063.9" ytl="373.96" xtl="970.72" label="car"/>
+        <box occluded="0" ybr="431.65" xbr="971.43" ytl="386.42" xtl="951.71" label="person"/>
+        <box occluded="1" ybr="760.92" xbr="1891.36" ytl="338.39" xtl="1166.19" label="car"/>
+        <box occluded="0" ybr="455.01" xbr="834.32" ytl="404.95" xtl="805.51" label="motorcycle"/>
+        <box occluded="0" ybr="496.18" xbr="1126.93" ytl="384.06" xtl="991.3" label="car"/>
+    </image>
+    <image id="72" height="1080" width="1920" name="MP_SEL_287528_P027923.jpg">
+        <box occluded="1" ybr="702.5" xbr="916.65" ytl="331.8" xtl="862.36" label="tree_trunk"/>
+        <box occluded="1" ybr="807.7" xbr="777.15" ytl="150.4" xtl="715.6" label="tree_trunk"/>
+        <box occluded="1" ybr="735" xbr="869.54" ytl="0" xtl="821.82" label="pole"/>
+        <box occluded="1" ybr="807.56" xbr="213.53" ytl="637.67" xtl="0" label="car"/>
+        <box occluded="1" ybr="226.6" xbr="701.16" ytl="0" xtl="350.3" label="traffic_sign"/>
+    </image>
+    <image id="73" height="1080" width="1920" name="MP_SEL_287531_P027924.jpg">
+        <box occluded="1" ybr="663" xbr="103.64" ytl="421.48" xtl="67.1" label="tree_trunk"/>
+        <box occluded="0" ybr="744.62" xbr="1072.33" ytl="478.8" xtl="893.95" label="stop"/>
+        <box occluded="0" ybr="787.24" xbr="894.26" ytl="307" xtl="824.08" label="tree_trunk"/>
+        <box occluded="0" ybr="1067.95" xbr="717.35" ytl="271.14" xtl="547.75" label="tree_trunk"/>
+    </image>
+    <image id="74" height="1080" width="1920" name="MP_SEL_287534_P027925.jpg">
+        <box occluded="1" ybr="312.29" xbr="1110.17" ytl="274.6" xtl="1086.65" label="traffic_sign"/>
+        <box occluded="0" ybr="385.34" xbr="960.08" ytl="287.41" xtl="791.43" label="car"/>
+        <box occluded="0" ybr="362.1" xbr="1120.2" ytl="320" xtl="1069.33" label="car"/>
+    </image>
+    <image id="75" height="1080" width="1920" name="MP_SEL_287538_P027926.jpg">
+        <box occluded="1" ybr="1080" xbr="455.65" ytl="227.28" xtl="0" label="car"/>
+        <box occluded="1" ybr="488.43" xbr="902.92" ytl="429.95" xtl="835.5" label="car"/>
+        <box occluded="1" ybr="575.68" xbr="797.99" ytl="436.08" xtl="588" label="car"/>
+        <box occluded="1" ybr="657.24" xbr="614.09" ytl="0" xtl="539" label="pole"/>
+    </image>
+    <image id="76" height="1080" width="1920" name="MP_SEL_287549_P027927.jpg">
+        <box occluded="0" ybr="551.01" xbr="1191.06" ytl="457.99" xtl="1144.54" label="bicycle"/>
+        <box occluded="1" ybr="1080" xbr="511.72" ytl="724.15" xtl="2.1" label="bicycle"/>
+        <box occluded="1" ybr="772.91" xbr="681.97" ytl="0" xtl="627.87" label="pole"/>
+        <box occluded="1" ybr="1013.29" xbr="620.39" ytl="627.27" xtl="410.7" label="stroller"/>
+        <box occluded="1" ybr="1080" xbr="382.2" ytl="0" xtl="220.26" label="pole"/>
+        <box occluded="1" ybr="1034.32" xbr="1920" ytl="607.41" xtl="1717.38" label="carrier"/>
+        <box occluded="1" ybr="566.19" xbr="988.35" ytl="398.74" xtl="909.52" label="potted_plant"/>
+    </image>
+    <image id="77" height="1080" width="1920" name="MP_SEL_287562_P027928.jpg">
+        <box occluded="0" ybr="187.15" xbr="1624.92" ytl="125.54" xtl="1562.49" label="traffic_sign"/>
+        <box occluded="0" ybr="575.56" xbr="451.24" ytl="17.3" xtl="412.99" label="pole"/>
+        <box occluded="1" ybr="714.2" xbr="293.05" ytl="482.71" xtl="0" label="car"/>
+        <box occluded="0" ybr="553.82" xbr="1023.46" ytl="53.81" xtl="986.44" label="pole"/>
+        <box occluded="0" ybr="193.27" xbr="1532.7" ytl="167.16" xtl="1457.22" label="traffic_light"/>
+        <box occluded="0" ybr="181.85" xbr="1727.74" ytl="154.1" xtl="1650.21" label="traffic_light"/>
+        <box occluded="0" ybr="358.1" xbr="449.9" ytl="274.57" xtl="416.92" label="traffic_sign"/>
+        <box occluded="0" ybr="676.33" xbr="1712.44" ytl="445.45" xtl="1157.99" label="car"/>
+        <box occluded="0" ybr="214.39" xbr="299.41" ytl="146.23" xtl="272.97" label="traffic_sign"/>
+        <box occluded="0" ybr="228.49" xbr="272.97" ytl="149.76" xtl="245.94" label="traffic_sign"/>
+        <box occluded="0" ybr="394.18" xbr="981.6" ytl="333.08" xtl="961.59" label="traffic_light"/>
+    </image>
+    <image id="78" height="1080" width="1920" name="MP_SEL_287569_P027929.jpg">
+        <box occluded="1" ybr="771.9" xbr="1309.09" ytl="520.05" xtl="1274.55" label="tree_trunk"/>
+        <box occluded="1" ybr="747.5" xbr="1208.27" ytl="529.92" xtl="1178.66" label="tree_trunk"/>
+        <box occluded="1" ybr="888.6" xbr="1473.14" ytl="331.63" xtl="1444.71" label="pole"/>
+        <box occluded="1" ybr="1021.8" xbr="1714.78" ytl="731.66" xtl="1659.95" label="tree_trunk"/>
+    </image>
+    <image id="79" height="1080" width="1920" name="MP_SEL_287570_P027930.jpg">
+        <box occluded="1" ybr="519.51" xbr="919.04" ytl="0" xtl="888.58" label="pole"/>
+        <box occluded="1" ybr="518.67" xbr="733.74" ytl="0" xtl="698.21" label="pole"/>
+    </image>
+    <image id="80" height="1080" width="1920" name="MP_SEL_287584_P027931.jpg">
+        <box occluded="1" ybr="584.56" xbr="1376.1" ytl="301.83" xtl="1152.29" label="bicycle"/>
+        <box occluded="1" ybr="664.7" xbr="1408.89" ytl="0" xtl="1269.1" label="pole"/>
+    </image>
+    <image id="81" height="1080" width="1920" name="MP_SEL_287588_P027932.jpg">
+        <box occluded="0" ybr="658.56" xbr="1141.51" ytl="554.01" xtl="1042.33" label="truck"/>
+        <box occluded="0" ybr="637.94" xbr="971.3" ytl="577.08" xtl="907.03" label="car"/>
+        <box occluded="1" ybr="671.1" xbr="899.05" ytl="583.75" xtl="775.56" label="car"/>
+    </image>
+    <image id="82" height="1080" width="1920" name="MP_SEL_287594_P027933.jpg">
+        <box occluded="1" ybr="481.7" xbr="862.94" ytl="0" xtl="841.79" label="tree_trunk"/>
+        <box occluded="1" ybr="409.51" xbr="902.57" ytl="344.88" xtl="827.16" label="fire_hydrant"/>
+        <box occluded="1" ybr="380.39" xbr="929.16" ytl="224" xtl="912.1" label="tree_trunk"/>
+        <box occluded="0" ybr="306.3" xbr="718.72" ytl="238.78" xtl="619.33" label="car"/>
+    </image>
+    <image id="83" height="1080" width="1920" name="MP_SEL_287614_P027934.jpg">
+        <box occluded="0" ybr="603.67" xbr="545.48" ytl="456.78" xtl="485.5" label="person"/>
+        <box occluded="1" ybr="603.56" xbr="1090.5" ytl="0" xtl="1049.37" label="pole"/>
+        <box occluded="0" ybr="589.85" xbr="408.2" ytl="452.22" xtl="355.81" label="person"/>
+        <box occluded="0" ybr="369.03" xbr="1068.95" ytl="304.88" xtl="1019.99" label="traffic_light"/>
+        <box occluded="1" ybr="604.4" xbr="1595.23" ytl="0" xtl="1542.7" label="pole"/>
+        <box occluded="1" ybr="571.6" xbr="78.11" ytl="253.75" xtl="40.04" label="tree_trunk"/>
+    </image>
+    <image id="84" height="1080" width="1920" name="MP_SEL_287628_P027935.jpg">
+        <box occluded="1" ybr="1080" xbr="527.38" ytl="506.06" xtl="0" label="truck"/>
+        <box occluded="1" ybr="883.8" xbr="940.2" ytl="575.85" xtl="729.38" label="power_controller"/>
+        <box occluded="0" ybr="1024.24" xbr="916.42" ytl="454.05" xtl="586.25" label="power_controller"/>
+        <box occluded="1" ybr="1008" xbr="1607.73" ytl="0" xtl="1558.02" label="pole"/>
+    </image>
+    <image id="85" height="1080" width="1920" name="MP_SEL_287630_P027936.jpg">
+        <box occluded="0" ybr="194.56" xbr="1363.34" ytl="184.36" xtl="1331.61" label="traffic_light"/>
+        <box occluded="0" ybr="384.25" xbr="1111.6" ytl="101.52" xtl="1067.89" label="tree_trunk"/>
+        <box occluded="0" ybr="318.52" xbr="1330.66" ytl="282.11" xtl="1308.56" label="person"/>
+        <box occluded="1" ybr="306.93" xbr="1371.12" ytl="280.41" xtl="1287.47" label="car"/>
+        <box occluded="0" ybr="353.03" xbr="958.74" ytl="277.14" xtl="935.49" label="movable_signage"/>
+        <box occluded="1" ybr="502.16" xbr="1211.86" ytl="0" xtl="1159.47" label="tree_trunk"/>
+        <box occluded="1" ybr="531.65" xbr="1322.85" ytl="0" xtl="1224.16" label="pole"/>
+        <box occluded="1" ybr="420.8" xbr="1177.7" ytl="0" xtl="1083.75" label="tree_trunk"/>
+        <box occluded="0" ybr="1043.94" xbr="1777.29" ytl="0" xtl="1380.79" label="tree_trunk"/>
+    </image>
+    <image id="86" height="1080" width="1920" name="MP_SEL_287632_P027937.jpg">
+        <box occluded="0" ybr="595.27" xbr="1325.09" ytl="309.55" xtl="988.4" label="truck"/>
+        <box occluded="0" ybr="534.55" xbr="767.69" ytl="244.89" xtl="606.7" label="movable_signage"/>
+        <box occluded="0" ybr="541.31" xbr="1409.9" ytl="228.14" xtl="1317.06" label="movable_signage"/>
+        <box occluded="1" ybr="659.58" xbr="438.81" ytl="0" xtl="355.96" label="pole"/>
+        <box occluded="0" ybr="635.21" xbr="1559.96" ytl="441.39" xtl="1493.86" label="movable_signage"/>
+    </image>
+    <image id="87" height="1080" width="1920" name="MP_SEL_287650_P027938.jpg">
+        <box occluded="1" ybr="902.74" xbr="365" ytl="312.07" xtl="0" label="car"/>
+        <box occluded="0" ybr="566.47" xbr="1140.18" ytl="461.07" xtl="1047.8" label="barricade"/>
+        <box occluded="1" ybr="714.28" xbr="571.89" ytl="406.31" xtl="177.1" label="car"/>
+        <box occluded="0" ybr="657.57" xbr="773.71" ytl="398.55" xtl="683.61" label="person"/>
+    </image>
+    <image id="88" height="1080" width="1920" name="MP_SEL_287658_P027939.jpg">
+        <box occluded="0" ybr="299.4" xbr="974.9" ytl="214.5" xtl="945.67" label="movable_signage"/>
+        <box occluded="1" ybr="371.87" xbr="1116.8" ytl="187.44" xtl="1055.88" label="movable_signage"/>
+        <box occluded="0" ybr="412.93" xbr="1173.93" ytl="189.66" xtl="1098.72" label="potted_plant"/>
+        <box occluded="0" ybr="298.5" xbr="1039.61" ytl="217.02" xtl="1013.8" label="movable_signage"/>
+    </image>
+    <image id="89" height="1080" width="1920" name="MP_SEL_287668_P027940.jpg">
+        <box occluded="0" ybr="565.01" xbr="939.58" ytl="344.24" xtl="866.48" label="tree_trunk"/>
+        <box occluded="1" ybr="512.15" xbr="1071.14" ytl="450.94" xtl="1034.1" label="bollard"/>
+        <box occluded="0" ybr="563.06" xbr="481.34" ytl="329.26" xtl="41.24" label="car"/>
+        <box occluded="0" ybr="513.52" xbr="1023.81" ytl="450.65" xtl="989.73" label="bollard"/>
+        <box occluded="1" ybr="933.44" xbr="756.82" ytl="0" xtl="538.98" label="tree_trunk"/>
+        <box occluded="0" ybr="491.42" xbr="977.57" ytl="233.37" xtl="935.97" label="tree_trunk"/>
+    </image>
+    <image id="90" height="1080" width="1920" name="MP_SEL_287672_P027941.jpg">
+        <box occluded="0" ybr="350.32" xbr="961.51" ytl="295.57" xtl="933.96" label="bollard"/>
+        <box occluded="1" ybr="1024.08" xbr="1704.22" ytl="0" xtl="1360.64" label="tree_trunk"/>
+        <box occluded="1" ybr="339.69" xbr="1303.94" ytl="229.66" xtl="1142.2" label="car"/>
+        <box occluded="1" ybr="432.76" xbr="1211.51" ytl="0" xtl="1136.07" label="tree_trunk"/>
+        <box occluded="1" ybr="322.29" xbr="1754.55" ytl="0" xtl="1717.41" label="pole"/>
+        <box occluded="0" ybr="353.7" xbr="1143.82" ytl="215.14" xtl="1112.97" label="tree_trunk"/>
+        <box occluded="0" ybr="304.75" xbr="1705.17" ytl="198.66" xtl="1675.39" label="person"/>
+        <box occluded="0" ybr="322.38" xbr="1886.46" ytl="151.41" xtl="1843.57" label="tree_trunk"/>
+    </image>
+    <image id="91" height="1080" width="1920" name="MP_SEL_287698_P027942.jpg">
+        <box occluded="0" ybr="672.04" xbr="1120.99" ytl="520.45" xtl="1098.67" label="tree_trunk"/>
+        <box occluded="1" ybr="659.7" xbr="1069.88" ytl="173.4" xtl="1049.9" label="pole"/>
+        <box occluded="1" ybr="598.73" xbr="1409.79" ytl="571.24" xtl="1336.4" label="truck"/>
+        <box occluded="1" ybr="596.46" xbr="1489.41" ytl="566.99" xtl="1410.92" label="truck"/>
+        <box occluded="0" ybr="901.62" xbr="1245.1" ytl="489.41" xtl="1185.2" label="tree_trunk"/>
+        <box occluded="0" ybr="727.39" xbr="1157.28" ytl="509.01" xtl="1113.71" label="tree_trunk"/>
+    </image>
+    <image id="92" height="1080" width="1920" name="MP_SEL_287704_P027943.jpg">
+        <box occluded="1" ybr="952.4" xbr="563.84" ytl="0" xtl="432.2" label="pole"/>
+        <box occluded="0" ybr="665.31" xbr="987.62" ytl="585.75" xtl="894.45" label="car"/>
+        <box occluded="1" ybr="902.74" xbr="1474.68" ytl="0" xtl="1424.97" label="pole"/>
+    </image>
+    <image id="93" height="1080" width="1920" name="MP_SEL_287711_P027944.jpg">
+        <box occluded="0" ybr="679.68" xbr="617.17" ytl="578.49" xtl="471.92" label="car"/>
+        <box occluded="1" ybr="760.65" xbr="1259.16" ytl="419.68" xtl="907.19" label="stop"/>
+    </image>
+    <image id="94" height="1080" width="1920" name="MP_SEL_287715_P027945.jpg">
+        <box occluded="0" ybr="862.71" xbr="278.42" ytl="559.53" xtl="0" label="bicycle"/>
+    </image>
+    <image id="95" height="1080" width="1920" name="MP_SEL_287719_P027946.jpg">
+        <box occluded="0" ybr="512.24" xbr="833.3" ytl="308.56" xtl="486.15" label="car"/>
+    </image>
+    <image id="96" height="1080" width="1920" name="MP_SEL_287742_P027947.jpg">
+        <box occluded="1" ybr="513.8" xbr="922.75" ytl="34.42" xtl="881.62" label="tree_trunk"/>
+        <box occluded="0" ybr="413.49" xbr="983.2" ytl="390.71" xtl="929.47" label="car"/>
+        <box occluded="1" ybr="264.27" xbr="1097.38" ytl="149.61" xtl="999.86" label="traffic_sign"/>
+        <box occluded="1" ybr="463.93" xbr="872.81" ytl="176.02" xtl="852.24" label="tree_trunk"/>
+        <box occluded="1" ybr="689.28" xbr="1064.5" ytl="0" xtl="961.51" label="tree_trunk"/>
+        <box occluded="1" ybr="597.17" xbr="1920" ytl="364.71" xtl="1631.12" label="car"/>
+        <box occluded="1" ybr="898.35" xbr="1236.37" ytl="0" xtl="1047.77" label="pole"/>
+    </image>
+    <image id="97" height="1080" width="1920" name="MP_SEL_287753_P027948.jpg">
+        <box occluded="0" ybr="526.69" xbr="1012.61" ytl="447.64" xtl="930.72" label="car"/>
+        <box occluded="1" ybr="653.48" xbr="1092.7" ytl="0" xtl="1051.1" label="pole"/>
+    </image>
+    <image id="98" height="1080" width="1920" name="MP_SEL_287784_P027949.jpg">
+        <box occluded="1" ybr="484" xbr="967.1" ytl="0" xtl="928.48" label="pole"/>
+        <box occluded="1" ybr="893.96" xbr="1920" ytl="148.33" xtl="1297.78" label="car"/>
+        <box occluded="1" ybr="643.9" xbr="1363.95" ytl="0" xtl="1309.66" label="pole"/>
+    </image>
+    <image id="99" height="1080" width="1920" name="MP_SEL_287796_P027950.jpg">
+        <box occluded="0" ybr="668.3" xbr="695.42" ytl="202.42" xtl="638.4" label="tree_trunk"/>
+        <box occluded="0" ybr="526.2" xbr="780.45" ytl="270.68" xtl="733.07" label="tree_trunk"/>
+        <box occluded="0" ybr="464.98" xbr="35.01" ytl="241.71" xtl="7.39" label="tree_trunk"/>
+    </image>
+</annotations>
