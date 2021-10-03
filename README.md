@@ -77,6 +77,14 @@ The initial classes are:
 27 | bench |
 28 | barricade |
 
+# Train
+There are many object detection models. As a starter, we can use YOLO V5 which is one of
+the most commonly used object detection models.
+You can take a look at [sidewalk_ko_yolov5](notebooks/sidewalk_ko_yolov5.ipynb)
+to see how training is done.
+We want to replicate it for Mongolian data and build a model that can detect
+object in Mongolian streets.
+
 # Related Work
 
 There have been several Machine Learning projects that deal with
