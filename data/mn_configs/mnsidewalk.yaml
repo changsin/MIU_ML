@@ -3,7 +3,7 @@
 
 train: /content/MIU_ML/data/sidewalk_mn/train_data/images
 # 10
-val: /content/MIU_ML/data/sidewalk_mn/val
+val: /content/MIU_ML/data/sidewalk_mn/train_data/val
 # 10
 test: /content/MIU_ML/data/sidewalk_mn/test
 
