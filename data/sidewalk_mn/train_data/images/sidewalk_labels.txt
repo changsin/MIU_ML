@@ -1,0 +1,12 @@
+car
+person
+trash_can
+street_light
+fence
+tree
+bush
+stairs
+bench
+traffic light
+bus
+truck
